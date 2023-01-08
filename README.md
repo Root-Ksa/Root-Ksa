@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Root-Ksa
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python , javascript
-- 💞️ I’m looking to collaborate on Big Project
-- 📫 How to reach me via discord #ᴴᴹ 7s,#0033
+Hey 👀
